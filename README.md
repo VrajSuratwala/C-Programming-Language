@@ -7,7 +7,6 @@ Welcome to the **C Programming Language** repository. This repository includes a
 ---
 
 ## 📝 Topics Covered
-
 - Basic Syntax & Structure  
 - Data Types & Variables  
 - Control Statements  
